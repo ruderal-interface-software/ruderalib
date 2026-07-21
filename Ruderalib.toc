@@ -1,0 +1,23 @@
+##   Interface: 120007
+
+##     Version: 0.120007
+
+##       Title: Ruderalib
+
+##      Author: git.ruderalis.fr
+
+## IconTexture: Interface/Icons/inv12_ability_druid_totaleclipse.blp
+
+##    Category: Ruderal Interface Software
+
+##       Notes: Library and resources for Ruderalis (Ruderal Interface Software).
+
+##  Notes-frFR: Bibliothèque et ressources pour Ruderalis (Ruderal Interface Software).
+
+ProgramLibrary.lua
+
+ProgramLibrary_Color.lua
+
+ProgramLibrary_Exclusive.lua
+
+ProgramLibrary_Tag.lua
