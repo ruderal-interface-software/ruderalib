@@ -8,7 +8,7 @@
 
 ##      Author: git.ruderalis.fr
 
-## IconTexture: Interface/Icons/inv12_ability_druid_totaleclipse.blp
+## IconTexture: Interface/Icons/inv_babyfaeriedragon.blp
 
 ##    Category: Ruderal Interface Software
 
